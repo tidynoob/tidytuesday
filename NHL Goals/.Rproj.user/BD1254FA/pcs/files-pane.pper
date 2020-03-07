@@ -1,0 +1,9 @@
+{
+    "path" : "~/R/tidytuesday/NHL Goals",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

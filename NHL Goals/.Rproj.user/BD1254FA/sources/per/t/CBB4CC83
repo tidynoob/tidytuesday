@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1583554905715.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3099779539",
+    "id" : "CBB4CC83",
+    "lastKnownWriteTime" : 1583554843,
+    "last_content_update" : 1583554843,
+    "path" : "~/R/tidytuesday/NHL Goals/hockey_goals.R",
+    "project_path" : "hockey_goals.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
